@@ -4,4 +4,3 @@ def f(n):
         answer *= i
     return answer
 print (f(5))
-# first modification
